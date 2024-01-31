@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rahul Jangid",
+      "username": "rah1",
+      "email": "rahul1@yopmail.com",
+      "phone": "9988776551",
+      "address": "jaipur, rajasthan, india - 311012"
+    },
+    {
+      "id": "2",
+      "name": "Demo two",
+      "username": "Dem-2",
+      "email": "demo2@yopmail.com",
+      "phone": "998877654",
+      "address": "jaipur, rajasthan, india - 311012"
+    },
+    {
+      "id": "3",
+      "name": "Demo three",
+      "username": "Dem-3",
+      "email": "demo3@yopmail.com",
+      "phone": "998877653",
+      "address": "jaipur, rajasthan, india - 311013"
+    },
+    {
+      "id": "4",
+      "name": "Demo four",
+      "username": "Dem-4",
+      "email": "demo4@yopmail.com",
+      "phone": "998877652",
+      "address": "jaipur, rajasthan, india - 311014"
+    },
+    {
+      "id": "5",
+      "name": "Demo six",
+      "username": "Dem-6",
+      "email": "demo6@yopmail.com",
+      "phone": "998877656",
+      "address": "jaipur, rajasthan, india - 311016"
+    }
+  ]
+}
